@@ -1,0 +1,4 @@
+MONGO_URI= your db url
+JWT_SECRET= yourSecretkey
+EMAIL=yourgmail
+EMAIL_PASSWORD=yourpass
